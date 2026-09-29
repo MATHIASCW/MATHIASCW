@@ -9,7 +9,7 @@
 Software Engineer with a Master’s degree in Computer Science (Data, Services, Knowledge) and experience in fullstack web development and system administration. Passionate about building robust web applications, designing RESTful APIs, and working with complex data models (SQL/NoSQL). Always eager to learn new technologies and contribute to ambitious IT projects.
 
  &nbsp;I'm currently working on **Building personal side-projects to explore modern web architectures and practice clean code principles.**  
- &nbsp;I'm currently learning **Amazon Web Services (AWS) Cloud fundamentals &amp; GitLab CI/CD pipelines.**  
+ &nbsp;I'm currently learning **Amazon Web Services (AWS) Cloud fundamentals.**  
  &nbsp;I'm looking to collaborate on **Open-source projects involving Fullstack Web Development (Symfony/Vue.js/Node.js) or Python/Data applications.**
 
 ### Tech Stack
